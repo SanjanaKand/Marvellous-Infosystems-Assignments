@@ -1,0 +1,32 @@
+helloooooooooooooooooooooooooooooooooo
+------------------------------------
+File name is q2filesample.txt
+File Path : C:\Users\Prathmesh\OneDrive\Desktop\Marvellous Infosystems\ASSIGNMENT 32\q2filesample.txt
+Fize size in bytes is 402
+Current date : 23:07:2026 
+Current time : 10:54:58 PM
+
+------------------------------------
+File name is q2filesample.txt
+File Path : C:\Users\Prathmesh\OneDrive\Desktop\Marvellous Infosystems\ASSIGNMENT 32\q2filesample.txt
+Fize size in bytes is 402
+Current date : 23:07:2026 
+Current time : 10:55:29 PM
+
+------------------------------------
+File name is q2filesample.txt
+File Path : C:\Users\Prathmesh\OneDrive\Desktop\Marvellous Infosystems\ASSIGNMENT 32\q2filesample.txt
+Fize size in bytes is 345
+Current date : 23:07:2026 
+Current time : 10:55:59 PM
+
+------------------------------------
+File name is q2filesample.txt
+File Path : C:\Users\Prathmesh\OneDrive\Desktop\Marvellous Infosystems\ASSIGNMENT 32\q2filesample.txt
+Fize size in bytes is 258
+Current date : 23:07:2026 
+Current time : 10:56:29 PM
+
+
+----------------------
+helloooooooooo

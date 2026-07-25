@@ -1,0 +1,8 @@
+Hello, this is a sample text file.
+
+Python is a simple and powerful programming language.
+It is widely used for web development, data science, automation, and machine learning.
+
+This file is created for practicing file handling programs.
+
+Thank you!

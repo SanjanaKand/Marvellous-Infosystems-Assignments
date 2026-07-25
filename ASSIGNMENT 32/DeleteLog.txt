@@ -1,0 +1,4 @@
+Sample Folder\A.txt Deleted
+Sample Folder\C.txt Deleted
+Sample Folder\Folder 1\D.txt Deleted
+Sample Folder\Folder 2\F.txt Deleted
