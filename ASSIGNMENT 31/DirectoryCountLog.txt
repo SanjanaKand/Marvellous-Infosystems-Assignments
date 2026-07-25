@@ -1,0 +1,4 @@
+Directory Path : Directory1
+Number of Files : 3
+Date and Time : 23-07-2026 01:06:08 AM
+--------------------------------------------
