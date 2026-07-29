@@ -1,0 +1,6 @@
+Marvellous Infosystems
+Python Automation Project
+Duplicate File Removal Script
+This file is created for testing duplicate detection.
+Python is a powerful programming language.
+Automation makes tasks easier.

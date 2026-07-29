@@ -1,0 +1,39 @@
+------------------------------------------------------------
+        Duplicate File Removal Automation Log
+------------------------------------------------------------
+
+Directory Scanned : Test
+
+Scanning Started : Thu Jul 30 00:19:15 2026
+
+------------------------------------------------------------
+Duplicate Files Found
+------------------------------------------------------------
+
+Checksum Value : 3cb69f72eceb57e158b8ad142cffa084
+
+Original File:
+Test\file1.txt
+
+Duplicate File Deleted:
+Test\file2.txt
+
+------------------------------------------------------------
+                Execution Summary
+------------------------------------------------------------
+
+Total Files Scanned : 3
+Total Duplicate Files Found : 1
+Total Duplicate Files Deleted : 1
+
+Scanning Completed : Thu Jul 30 00:19:15 2026
+
+Execution Duration : 0.0 seconds
+
+
+------------------------------------------------------------
+                   Email Status
+------------------------------------------------------------
+
+Email Delivery Status : Mail sent successfully.
+------------------------------------------------------------

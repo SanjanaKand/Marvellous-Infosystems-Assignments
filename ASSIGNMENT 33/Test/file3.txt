@@ -1,0 +1,5 @@
+Data Science Project
+Machine Learning using Python
+This file contains different information.
+Pandas and NumPy are useful libraries.
+Data analysis helps in decision making.
