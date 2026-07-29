@@ -1,0 +1,104 @@
+Process Information Log
+Log Created : 2026-07-29 20:45:55.787802
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 384
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 1320
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 2068
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 2340
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 5692
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 5852
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 8444
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 8828
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 10196
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 11524
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 14908
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 15952
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16100
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16424
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16520
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16584
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16904
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 17156
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 17376
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 17480
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 19656
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 19900
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 21600
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 21872
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 21996
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process search completed successfully.

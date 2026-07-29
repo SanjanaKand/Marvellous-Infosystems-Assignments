@@ -1,0 +1,1074 @@
+Process Information Log
+Log Created : 2026-07-29 21:08:18.197622
+------------------------------------------------------------
+Process Name : System Idle Process
+PID          : 0
+Username     : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+Process Name : System
+PID          : 4
+Username     : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+Process Name : Registry
+PID          : 100
+Username     : None
+------------------------------------------------------------
+Process Name : smss.exe
+PID          : 356
+Username     : None
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 404
+Username     : None
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 584
+Username     : None
+------------------------------------------------------------
+Process Name : wininit.exe
+PID          : 672
+Username     : None
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 732
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : services.exe
+PID          : 824
+Username     : None
+------------------------------------------------------------
+Process Name : lsass.exe
+PID          : 832
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 872
+Username     : None
+------------------------------------------------------------
+Process Name : Lively.exe
+PID          : 904
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 972
+Username     : None
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 1008
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1048
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 1120
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1172
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1176
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1188
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1292
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 1320
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1448
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1504
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1516
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1548
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1568
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1588
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1652
+Username     : None
+------------------------------------------------------------
+Process Name : uihost.exe
+PID          : 1684
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1716
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1792
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1824
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1876
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1892
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1956
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1964
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2016
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2044
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 2068
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2088
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2104
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 2160
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2196
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2232
+Username     : None
+------------------------------------------------------------
+Process Name : MemCompression
+PID          : 2252
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2284
+Username     : None
+------------------------------------------------------------
+Process Name : igfxCUIService.exe
+PID          : 2304
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2324
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 2340
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : RAVBg64.exe
+PID          : 2348
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2356
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2368
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2408
+Username     : None
+------------------------------------------------------------
+Process Name : RAVBg64.exe
+PID          : 2440
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 2480
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : IntelCpHDCPSvc.exe
+PID          : 2536
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2544
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2592
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2636
+Username     : None
+------------------------------------------------------------
+Process Name : dasHost.exe
+PID          : 2728
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2876
+Username     : None
+------------------------------------------------------------
+Process Name : SynTPHelper.exe
+PID          : 2992
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 3044
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3056
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3128
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3148
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3152
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 3208
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3272
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3276
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3308
+Username     : None
+------------------------------------------------------------
+Process Name : RtkAudioService64.exe
+PID          : 3432
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3476
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3480
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3492
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3528
+Username     : None
+------------------------------------------------------------
+Process Name : ibmpmsvc.exe
+PID          : 3532
+Username     : None
+------------------------------------------------------------
+Process Name : AnyDesk.exe
+PID          : 3604
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 3608
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3632
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3704
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3712
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3772
+Username     : None
+------------------------------------------------------------
+Process Name : spoolsv.exe
+PID          : 3856
+Username     : None
+------------------------------------------------------------
+Process Name : wlanext.exe
+PID          : 3884
+Username     : None
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 3904
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3920
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3940
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4032
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4056
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4104
+Username     : None
+------------------------------------------------------------
+Process Name : AnyDesk.exe
+PID          : 4112
+Username     : None
+------------------------------------------------------------
+Process Name : jhi_service.exe
+PID          : 4120
+Username     : None
+------------------------------------------------------------
+Process Name : EasyResume.exe
+PID          : 4144
+Username     : None
+------------------------------------------------------------
+Process Name : IntelCpHeciSvc.exe
+PID          : 4160
+Username     : None
+------------------------------------------------------------
+Process Name : mDNSResponder.exe
+PID          : 4164
+Username     : None
+------------------------------------------------------------
+Process Name : LMS.exe
+PID          : 4184
+Username     : None
+------------------------------------------------------------
+Process Name : armsvc.exe
+PID          : 4192
+Username     : None
+------------------------------------------------------------
+Process Name : AdAppMgrSvc.exe
+PID          : 4204
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4240
+Username     : None
+------------------------------------------------------------
+Process Name : mc-fw-host.exe
+PID          : 4300
+Username     : None
+------------------------------------------------------------
+Process Name : servicehost.exe
+PID          : 4316
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4452
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4464
+Username     : None
+------------------------------------------------------------
+Process Name : valWBFPolicyService.exe
+PID          : 4472
+Username     : None
+------------------------------------------------------------
+Process Name : valWbioSyncSvc.exe
+PID          : 4480
+Username     : None
+------------------------------------------------------------
+Process Name : mysqld.exe
+PID          : 4500
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4512
+Username     : None
+------------------------------------------------------------
+Process Name : RstMwService.exe
+PID          : 4516
+Username     : None
+------------------------------------------------------------
+Process Name : SynTPEnhService.exe
+PID          : 4524
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4540
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4548
+Username     : None
+------------------------------------------------------------
+Process Name : WMIRegistrationService.exe
+PID          : 4560
+Username     : None
+------------------------------------------------------------
+Process Name : TeamViewer_Service.exe
+PID          : 4588
+Username     : None
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 4660
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4740
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4764
+Username     : None
+------------------------------------------------------------
+Process Name : PowerMgr.exe
+PID          : 4860
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4968
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4976
+Username     : None
+------------------------------------------------------------
+Process Name : igfxEM.exe
+PID          : 5040
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 5616
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 5692
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 5784
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 5852
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : mysqld.exe
+PID          : 5996
+Username     : None
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 6008
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 6012
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID          : 6392
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 6436
+Username     : None
+------------------------------------------------------------
+Process Name : explorer.exe
+PID          : 6728
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7136
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 7172
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : ctfmon.exe
+PID          : 7436
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SynTPEnh.exe
+PID          : 7444
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SearchIndexer.exe
+PID          : 7636
+Username     : None
+------------------------------------------------------------
+Process Name : AggregatorHost.exe
+PID          : 7836
+Username     : None
+------------------------------------------------------------
+Process Name : dllhost.exe
+PID          : 7916
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8044
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 8068
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : cmd.exe
+PID          : 8084
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 8444
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : winlogon.exe
+PID          : 8692
+Username     : None
+------------------------------------------------------------
+Process Name : browserhost.exe
+PID          : 8732
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 8788
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : dllhost.exe
+PID          : 8824
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 8828
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SDXHelper.exe
+PID          : 8868
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8988
+Username     : None
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 9108
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Signal.exe
+PID          : 9220
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 9268
+Username     : None
+------------------------------------------------------------
+Process Name : mc-fw-host.exe
+PID          : 9484
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 9672
+Username     : None
+------------------------------------------------------------
+Process Name : AutodeskDesktopApp.exe
+PID          : 9920
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 9968
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SearchFilterHost.exe
+PID          : 9984
+Username     : None
+------------------------------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID          : 10048
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10096
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 10104
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 10196
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 10336
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : BraveCrashHandler.exe
+PID          : 10536
+Username     : None
+------------------------------------------------------------
+Process Name : BraveCrashHandler64.exe
+PID          : 10556
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10648
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10736
+Username     : None
+------------------------------------------------------------
+Process Name : SensorDBSynch.exe
+PID          : 10764
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : powershell.exe
+PID          : 10872
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11008
+Username     : None
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11176
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : taskhostw.exe
+PID          : 11212
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : DolbyDAX2API.exe
+PID          : 11272
+Username     : None
+------------------------------------------------------------
+Process Name : MoUsoCoreWorker.exe
+PID          : 11404
+Username     : None
+------------------------------------------------------------
+Process Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.tmp
+PID          : 11416
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : python.exe
+PID          : 11436
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 11524
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Signal.exe
+PID          : 11544
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11716
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 11740
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : OneDrive.exe
+PID          : 12528
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : RAVCpl64.exe
+PID          : 12572
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : AdobeCollabSync.exe
+PID          : 12852
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 12884
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 13140
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : ONENOTEM.EXE
+PID          : 13572
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : mc-extn-browserhost.exe
+PID          : 13600
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13648
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 13952
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 14164
+Username     : None
+------------------------------------------------------------
+Process Name : SecurityHealthService.exe
+PID          : 14244
+Username     : None
+------------------------------------------------------------
+Process Name : Signal.exe
+PID          : 14352
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Signal.exe
+PID          : 14568
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 14908
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Signal.exe
+PID          : 14952
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 15068
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : iVCam.exe
+PID          : 15180
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 15192
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : FileCoAuth.exe
+PID          : 15508
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 15620
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Signal.exe
+PID          : 15632
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 15672
+Username     : None
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 15752
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SearchApp.exe
+PID          : 15824
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 15952
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : TextInputHost.exe
+PID          : 16072
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16100
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16204
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID          : 16244
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 16316
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16424
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16480
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16520
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : powershell.exe
+PID          : 16532
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16584
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 16636
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 16668
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SearchApp.exe
+PID          : 16776
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 16904
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 16976
+Username     : None
+------------------------------------------------------------
+Process Name : AcWebBrowser.exe
+PID          : 16980
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 17148
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 17156
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 17208
+Username     : None
+------------------------------------------------------------
+Process Name : mc-neo-host.exe
+PID          : 17224
+Username     : None
+------------------------------------------------------------
+Process Name : SearchProtocolHost.exe
+PID          : 17328
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 17376
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 17480
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : AcWebBrowser.exe
+PID          : 17512
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 17708
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 17792
+Username     : None
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 18048
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : WhatsApp.Root.exe
+PID          : 18128
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 18180
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : ShellExperienceHost.exe
+PID          : 18696
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : LockApp.exe
+PID          : 18808
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 18836
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : UserOOBEBroker.exe
+PID          : 19512
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 19656
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 19664
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SearchProtocolHost.exe
+PID          : 19708
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : dwm.exe
+PID          : 19876
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 19900
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 19916
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 20076
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Video.UI.exe
+PID          : 20136
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 20340
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : cmd.exe
+PID          : 20552
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 20580
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : igfxext.exe
+PID          : 20596
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SecurityHealthSystray.exe
+PID          : 20712
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 20840
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 20904
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 20920
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.exe
+PID          : 20928
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : sihost.exe
+PID          : 21008
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : AcWebBrowser.exe
+PID          : 21024
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : OfficeClickToRun.exe
+PID          : 21124
+Username     : None
+------------------------------------------------------------
+Process Name : AdobeCollabSync.exe
+PID          : 21496
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : pet.exe
+PID          : 21516
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 21536
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 21600
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : cmd.exe
+PID          : 21752
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 21872
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 21996
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 22084
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 22240
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process Name : SystemSettings.exe
+PID          : 22488
+Username     : DESKTOP-91LJ7M2\Prathmesh
+------------------------------------------------------------
+Process information collected successfully.
+------------------------------------------------------------
+End of Log File
