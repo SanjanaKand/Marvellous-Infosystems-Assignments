@@ -1,0 +1,55 @@
+1. Import Libraries
+        ↓
+2. Load Dataset
+        ↓
+3. Display Dataset
+        ↓
+4. Dataset Information
+        ↓
+5. Check Data Types
+        ↓
+6. Statistical Summary
+        ↓
+7. Missing Values
+        ↓
+8. Duplicate Values
+        ↓
+9. Unique Values
+        ↓
+10. Value Counts
+        ↓
+11. Class Balance
+        ↓
+12. Outlier Detection
+        ↓
+13. Histograms
+        ↓
+14. Correlation Matrix
+        ↓
+15. Scatter Plots
+        ↓
+16. Pair Plot
+        ↓
+17. Count Plot
+        ↓
+18. Box Plot
+        ↓
+19. Skewness
+        ↓
+20. Feature Relationships
+        ↓
+21. Data Cleaning
+        ↓
+22. Feature Engineering
+        ↓
+23. Feature/Target Split
+        ↓
+24. Train-Test Split
+        ↓
+25. Feature Scaling (if required)
+        ↓
+26. Train Model
+        ↓
+27. Predict
+        ↓
+28. Evaluate
